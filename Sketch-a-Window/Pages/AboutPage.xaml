@@ -1,0 +1,97 @@
+﻿<Page
+    x:Class="Sketch_a_Window.Pages.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Sketch_a_Window.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="550" Height="700">
+    <Grid>
+        <StackPanel Style="{StaticResource Settings.Content.StackPanel}">
+            <!-- About Us Header -->
+            <!-- ======================================================= -->
+            <!-- ======================================================= -->
+            <TextBlock Text="About Us" Style="{StaticResource Generic.Header.TextBlock}" Margin="0 10 0 15"/>
+
+
+            
+            <!-- Developers Detail -->
+            <!-- ======================================================= -->
+            <!-- ======================================================= -->
+            <Grid Style="{StaticResource About.Us.Group.Grid}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Header -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Project Developers" FontWeight="Bold"/>
+
+                
+                <!-- Content -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Codie Shannon" Grid.Column="1"/>
+            </Grid>
+
+
+            
+            <!-- Contact Email Detail -->
+            <!-- ======================================================= -->
+            <!-- ======================================================= -->
+            <Grid Style="{StaticResource About.Us.Group.Grid}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Header -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Contact Email" FontWeight="Bold"/>
+
+                
+                <!-- Content -->
+                <!-- ======================================================= -->
+                <TextBlock Text="30013375@student.toiohomai.ac.nz" Grid.Column="1"/>
+            </Grid>
+
+
+            
+            <!-- Build Detail -->
+            <!-- ======================================================= -->
+            <!-- ======================================================= -->
+            <Grid Style="{StaticResource About.Us.Group.Grid}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Header -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Build" FontWeight="Bold"/>
+
+
+                <!-- Content -->
+                <!-- ======================================================= -->
+                <TextBlock Text="1.0.00 (01-03-2023 11:20pm)" Grid.Column="1"/>
+            </Grid>
+
+
+            
+            <!-- Copyright Detail -->
+            <!-- ======================================================= -->
+            <!-- ======================================================= -->
+            <Grid Style="{StaticResource About.Us.Group.Grid}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <!-- Header -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Copyright" FontWeight="Bold"/>
+
+                
+                <!-- Content -->
+                <!-- ======================================================= -->
+                <TextBlock Text="Wallpaper Engine © 2023 Codie Shannon. All Rights Reserved" Grid.Column="1"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>
