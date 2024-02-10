@@ -35,10 +35,6 @@ Set an Image or Video as your Desktop Wallpaper on a Single Monitor Windows 10 /
 * WPF Application Settings to Save and Load User Data
 
 
-# Original Project Source
-Link: https://github.com/StefanWickDev/ExtensionGallery/tree/master/Sketch-a-Window
-
-
 # Copyright
 A copyright license was not included with this github repository, as such the copyright of this project falls under the standard copyright act in New Zealand.
 
@@ -50,3 +46,7 @@ Under the Copyright Act, the owner of this project has the **exclusive right** t
 * Make an adaptation of the work or do any of the above activities in relation to an adaptation
 * Communicate the work to the public
 * Authorise any other person to do any of the restricted activities listed above.
+
+
+# Original Project Source
+Link: https://github.com/StefanWickDev/ExtensionGallery/tree/master/Sketch-a-Window
