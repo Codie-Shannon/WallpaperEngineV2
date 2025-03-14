@@ -1,5 +1,5 @@
 # Wallpaper Engine
-Set an Image or Video as your Desktop Wallpaper on a Single Monitor Windows 10 / 11 Device. Note, this project utilizes the WPF and UWP .NET Frameworks.
+Set an image or video as your desktop wallpaper on a single monitor Windows 10 / 11 device. Note, this project combines the WPF and UWP .NET Frameworks.
 
 
 # What I Learned
