@@ -1,34 +1,44 @@
 # Wallpaper Engine
-Set an Image or Video as your Desktop Wallpaper on a Single Monitor Windows 10 / 11 Device.
+Set an Image or Video as your Desktop Wallpaper on a Single Monitor Windows 10 / 11 Device. Note, this project utilizes the WPF and UWP .NET Frameworks.
 
 
 # What I Learned
 * Auto-Implemented Properties
+* C# DLL Import
+* C# IEnumerable
+* C# IF Statements
+* C# Parameterised Methods
 * Creating a File from an Image using Stream
 * Delaying a Thread using Thread Class
 * Dispatcher Timer
+* Enumeration Types
 * Enumeration Types
 * Fetching a Thumbnail from a Video Clip using DrawingContext and RenderTargetBitmap
 * Fetching Media File Details on Windows 10 / 11 using MediaInfo API
 * Fetching Power Modes and Power Line Status using Win32 Namespace
 * File Browsing using UWPs File Open Picker
+* File Picker
 * Finding a Window or Getting the Next Window using Win32 API
 * Getting Monitor Count using Windows Forms
 * Getting Primary Screen Dimensions using System Parameters Class
 * Lists
-* Message Dialog
 * MVVM (Model-View-ViewModel)
+* Power Mode Based Features
 * Properties
 * Refreshing the Desktop using Win32 API
 * Resizing Image using Graphics Class of System.Drawing Namespace
 * Setting a Parent Window using Win32 API
 * Spawning Worker Window using Win32 API
 * System Commands
+* System Threading
 * Tuples
 * UWP
 * UWP and WPF Styles
 * UWP App Windows
+* UWP Assets and Resources
+* UWP Frames
 * UWP Local Settings
+* UWP Message Dialog
 * UWP Page Navigation
 * UWP Themes
 * WPF
