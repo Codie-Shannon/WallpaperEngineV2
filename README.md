@@ -12,7 +12,6 @@ Set an image or video as your desktop wallpaper on a single monitor Windows 10 /
 * Delaying a Thread using Thread Class
 * Dispatcher Timer
 * Enumeration Types
-* Enumeration Types
 * Fetching a Thumbnail from a Video Clip using DrawingContext and RenderTargetBitmap
 * Fetching Media File Details on Windows 10 / 11 using MediaInfo API
 * Fetching Power Modes and Power Line Status using Win32 Namespace
