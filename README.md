@@ -6,7 +6,6 @@ Set an image or video as your desktop wallpaper on a single monitor Windows 10 /
 * Auto-Implemented Properties
 * C# DLL Import
 * C# IEnumerable
-* C# IF Statements
 * C# Parameterised Methods
 * Creating a File from an Image using Stream
 * Delaying a Thread using Thread Class
@@ -16,7 +15,7 @@ Set an image or video as your desktop wallpaper on a single monitor Windows 10 /
 * Fetching Media File Details on Windows 10 / 11 using MediaInfo API
 * Fetching Power Modes and Power Line Status using Win32 Namespace
 * File Browsing using UWPs File Open Picker
-* File Picker
+* UWP File Picker
 * Finding a Window or Getting the Next Window using Win32 API
 * Getting Monitor Count using Windows Forms
 * Getting Primary Screen Dimensions using System Parameters Class
