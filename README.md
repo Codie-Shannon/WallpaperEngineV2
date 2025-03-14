@@ -15,7 +15,6 @@ Set an image or video as your desktop wallpaper on a single monitor Windows 10 /
 * Fetching Media File Details on Windows 10 / 11 using MediaInfo API
 * Fetching Power Modes and Power Line Status using Win32 Namespace
 * File Browsing using UWPs File Open Picker
-* UWP File Picker
 * Finding a Window or Getting the Next Window using Win32 API
 * Getting Monitor Count using Windows Forms
 * Getting Primary Screen Dimensions using System Parameters Class
@@ -34,6 +33,7 @@ Set an image or video as your desktop wallpaper on a single monitor Windows 10 /
 * UWP and WPF Styles
 * UWP App Windows
 * UWP Assets and Resources
+* UWP File Picker
 * UWP Frames
 * UWP Local Settings
 * UWP Message Dialog
